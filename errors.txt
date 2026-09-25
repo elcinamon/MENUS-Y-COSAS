@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/archivo.rpy", line 15: 'frente' is not a keyword argument or valid child of the screen statement.
+    frente = True
+          ^
+
+File "game/archivo.rpy", line 28: 'atras' is not a keyword argument or valid child of the screen statement.
+    atras =True
+         ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Tue Aug 11 12:23:56 2026

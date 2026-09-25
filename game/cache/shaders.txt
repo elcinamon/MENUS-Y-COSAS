@@ -1,0 +1,19 @@
+renpy.alpha renpy.texture
+renpy.ftl
+renpy.dissolve renpy.geometry
+renpy.geometry renpy.texture textshader.flip textshader.jitter
+renpy.alpha renpy.geometry renpy.texture
+renpy.texture textshader.jitter renpy.texture textshader.jitter
+renpy.texture textshader.wave renpy.texture textshader.wave
+renpy.geometry renpy.texture textshader.dissolve
+renpy.texture textshader.jitter textshader.wave renpy.texture textshader.jitter textshader.wave
+renpy.geometry renpy.texture textshader.wave
+renpy.texture textshader.jitter textshader.flip renpy.texture textshader.jitter textshader.flip
+renpy.solid
+renpy.geometry renpy.texture textshader.jitter
+renpy.texture textshader.dissolve renpy.texture textshader.dissolve
+renpy.dissolve renpy.dissolve
+renpy.geometry renpy.texture textshader.jitter textshader.wave
+renpy.geometry renpy.texture
+renpy.geometry renpy.solid
+renpy.texture
